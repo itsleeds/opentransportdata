@@ -17,6 +17,7 @@ There are already lists of transport data, including:
 - https://github.com/awesomedata/awesome-public-datasets#transportation a list of transport data curated by awesomedata
 - https://data.gov.uk/search?filters%5Btopic%5D=Transport 1000+ transport datasets from gov.uk in the UK
 - https://catalog.data.gov/dataset?q=transport transport data from data.gov in the USA
+- https://github.com/andylua-beep/kales-trailer-road-regulations — an open JSON dataset and summary table of statutory heavy commercial trailer axle-load, drive-axle, width, and height limits across 28 jurisdictions with primary regulatory citations (useful for freight routing and fleet load-compliance modeling).
 - Any more? let us know!
 
 ## Point data
